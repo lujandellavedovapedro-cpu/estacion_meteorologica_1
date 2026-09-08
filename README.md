@@ -29,3 +29,6 @@ La estación está acompañada por una **maqueta que representa diferentes zonas
 | 🧵 Cables M-M, H-H y M-H | Realizan las conexiones | Según cada componente |
 
 ---
+Este proyecto fue realizado como una propuesta educativa para aplicar conocimientos de:
+
+💻 Programación 🔌 Electrónica 🌡️ Sensores 🌱 Medio ambiente 🤖 Arduino 🏗️ Diseño y construcción de maquetas
